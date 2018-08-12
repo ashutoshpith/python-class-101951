@@ -1,0 +1,4 @@
+"-", variable
+'.1..fs' %(variable)
+% <*, .num or num or var>f
+{0}.format(variable)
